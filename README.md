@@ -158,3 +158,5 @@ Para visualizar em tempo real a publicação dos dados, é necessário criar uma
 ___
 
 Projeto desenvolvido por Artur V. Cordeiro.
+
+Cariri, 2024.
